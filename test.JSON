@@ -1,8 +1,8 @@
 {
 
- 'name' : {
-'real' : 'alok',
-'fake' : 'ponu'
- }
+ 'name' : [
+{'real' : 'alok'},
+{'fake' : 'ponu'}
+ ]
 
 }
